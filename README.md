@@ -10,12 +10,6 @@ A clean and efficient Flutter application designed to manage poker sessions, tra
 * **Validation:** Smart form validation to ensure correct data entry and future dates for cash-outs.
 * **Status Indicators:** Visual cues for active timers vs. expired sessions.
 
-## 📱 Screenshots
-
-| Home Screen | Create Session |
-|:-----------:|:--------------:|
-| *(Add Screenshot)* | *(Add Screenshot)* |
-
 ## 🛠 Getting Started
 
 To run this project locally, follow these steps:
